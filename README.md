@@ -1,5 +1,5 @@
 # unscrape
-A simple image scraper for [Unsplash](https://unsplash.com/)
+A simple image scraper for [Unsplash](https://unsplash.com/) 
 [30-minute Python Web Scraper](https://hackernoon.com/30-minute-python-web-scraper-39d6d038e5da)
 ### Usage
 
